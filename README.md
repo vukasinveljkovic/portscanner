@@ -1,2 +1,5 @@
-# portscanner
-A Simple Port Scanner written in C.  Just a study project to learn Sockets
+# PortScanner
+A Simple Port Scanner written in C.  Just a study project to learn Sockets.
+
+#Usage
+./portscanner <your_ip-addres>
